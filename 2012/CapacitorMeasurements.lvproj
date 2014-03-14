@@ -18,7 +18,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="CDexp.vi" Type="VI" URL="../CDexp.vi"/>
+		<Item Name="CDexperiment.vi" Type="VI" URL="../CDexperiment.vi"/>
 		<Item Name="Charge Settings TypeDef.ctl" Type="VI" URL="../Charge Settings TypeDef.ctl"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
